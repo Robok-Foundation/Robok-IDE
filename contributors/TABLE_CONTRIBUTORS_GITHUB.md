@@ -1,7 +1,7 @@
-| Contributor | Contributions |
-| ------------ | -------------- |
-| aquilesTrindade | 668 |
-| ThDev-only | 76 |
-| renovate[bot] | 50 |
-| devsuay | 15 |
-| github-actions[bot] | 10 |
+| Contributor | Contributions | Role |
+| ------------ | -------------- | ---- |
+| aquilesTrindade | 715 | contributor |
+| ThDev-only | 82 | contributor |
+| renovate[bot] | 57 | contributor |
+| devsuay | 25 | contributor |
+| github-actions[bot] | 10 | contributor |
